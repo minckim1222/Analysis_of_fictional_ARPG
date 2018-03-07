@@ -10,13 +10,13 @@ The first step was to import the given dataset files into Pandas and converting 
 
 The second step was to do basic analysis on the gender groups.  The three genders were: Male, Female, and Other.  Other is comprised of people who did not specify gender.  The genders were grouped and them put into a dataframe to show how many users of each gender made purchases.  Here is the intial table:
 
-! [Gender Members](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/main_gender.png)
+![Gender Members](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/main_gender.png)
 
 Now that I had the user count of each gender, I could then make a dataframe showing the purchase information per gender.  The dataframe shows total purchases, total purchase amount, average purchase amount, and normalized purchase amount.
 
-! [Gender Purchases](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/gender_purchases.png)
+![Gender Purchases](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/gender_purchases.png)
 
-###Age analysis
+### Age analysis
 
 The users were broken down into 8 different age groups.  Analysis was done on each age group to see who spends the most money on the game.
 
