@@ -1,6 +1,6 @@
 # Analysis of Game Sales Data
 
-Analysis was done on a fictional gaming company.  The company sells in-game items to players to improve their characters.  The analysis was done in a Jupyter Notebook file, using Python and Pandas.  [Here is a link to the final Jupyter Notebook file.] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/heroes_of_pymoli/Heroes_of_PyMoli.ipynb)
+Analysis was done on a fictional gaming company.  The company sells in-game items to players to improve their characters.  The analysis was done in a Jupyter Notebook file, using Python and Pandas.  [Here is a link to the final Jupyter Notebook file.](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/heroes_of_pymoli/Heroes_of_PyMoli.ipynb)
 
 ### Initializing the database
 
@@ -10,29 +10,29 @@ The first step was to import the given dataset files into Pandas and converting 
 
 The second step was to do basic analysis on the gender groups.  The three genders were: Male, Female, and Other.  Other is comprised of people who did not specify gender.  The genders were grouped and them put into a dataframe to show how many users of each gender made purchases.  Here is the intial table:
 
-! [Gender Members] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/main_gender.png)
+! [Gender Members](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/main_gender.png)
 
 Now that I had the user count of each gender, I could then make a dataframe showing the purchase information per gender.  The dataframe shows total purchases, total purchase amount, average purchase amount, and normalized purchase amount.
 
-! [Gender Purchases] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/gender_purchases.png)
+! [Gender Purchases](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/gender_purchases.png)
 
 ###Age analysis
 
 The users were broken down into 8 different age groups.  Analysis was done on each age group to see who spends the most money on the game.
 
-![Age Statistics] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/age_statistics.png)
+![Age Statistics](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/age_statistics.png)
 
 ### Top Sellers Analysis
 
 The database was sorted by purchase amount to see who the top spending users were.  The top 5 users are:
 
-![Top Five Users] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_users.png)
+![Top Five Users](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_users.png)
 
 Next, the top 5 selling items by amount and volume were sorted:
 
-![Top Five Item Sales] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_items.png)
+![Top Five Item Sales](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_items.png)
 
-![Top Five Items by Revenue] (https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_items_revenue.png)
+![Top Five Items by Revenue](https://github.com/minckim1222/Analysis_of_fictional_ARPG/blob/master/images/top_five_items_revenue.png)
 
 
 ## Observations based on data
